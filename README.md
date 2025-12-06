@@ -5,6 +5,7 @@ This is a simple personal portfolio website built using HTML and CSS.
 It includes my introduction, education, and skills sections with a clean and responsive layout.
 
 ## 🔧 Tech Stack Used
+d
 - HTML
 - CSS
 
